@@ -1,4 +1,5 @@
 # budget-app
+live demo: https://alekseyfedorov27.github.io/budget-app/dist/
 
 ## Project setup
 ```
